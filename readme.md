@@ -79,3 +79,4 @@ Cukup mudah untuk membuat multiple auth pada laravel, ada beberapa poin yang per
 
 ## Source
 - [Laravel CheatSheet](https://laravel.gen.tr/cheatsheet/)
+- [Laravel Authentication](https://laravel.com/docs/5.7/authentication)
